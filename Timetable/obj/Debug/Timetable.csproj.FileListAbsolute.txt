@@ -1,0 +1,13 @@
+C:\Users\bizma\Source\Repos\hackaton2_codeme_20170701\Timetable\Timetable\bin\Debug\Timetable.exe.config
+C:\Users\bizma\Source\Repos\hackaton2_codeme_20170701\Timetable\Timetable\bin\Debug\Timetable.exe
+C:\Users\bizma\Source\Repos\hackaton2_codeme_20170701\Timetable\Timetable\bin\Debug\Timetable.pdb
+C:\Users\bizma\Source\Repos\hackaton2_codeme_20170701\Timetable\Timetable\obj\Debug\Timetable.csprojResolveAssemblyReference.cache
+C:\Users\bizma\Source\Repos\hackaton2_codeme_20170701\Timetable\Timetable\obj\Debug\Timetable.exe
+C:\Users\bizma\Source\Repos\hackaton2_codeme_20170701\Timetable\Timetable\obj\Debug\Timetable.pdb
+C:\Users\bizma\Source\Repos\hackaton2_codeme_20170701\Timetable\Timetable\bin\Debug\CourseData.dll
+C:\Users\bizma\Source\Repos\hackaton2_codeme_20170701\Timetable\Timetable\bin\Debug\EntityFramework.dll
+C:\Users\bizma\Source\Repos\hackaton2_codeme_20170701\Timetable\Timetable\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\bizma\Source\Repos\hackaton2_codeme_20170701\Timetable\Timetable\bin\Debug\CourseData.pdb
+C:\Users\bizma\Source\Repos\hackaton2_codeme_20170701\Timetable\Timetable\bin\Debug\CourseData.dll.config
+C:\Users\bizma\Source\Repos\hackaton2_codeme_20170701\Timetable\Timetable\bin\Debug\EntityFramework.xml
+C:\Users\bizma\Source\Repos\hackaton2_codeme_20170701\Timetable\Timetable\bin\Debug\EntityFramework.SqlServer.xml
